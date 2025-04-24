@@ -4,6 +4,12 @@ This project compares the performance of a traditional Fully Connected Neural Ne
 
 ---
 
+## Results: Sample Run
+![Traditional Neural Network](images/nn.jpg)
+![Convolutional Neural Network](images/cnn.jpg)
+
+---
+
 ## ✨ Features
 
 * **Direct Comparison:** Train and evaluate both an NN and a CNN on the same dataset under similar conditions.
